@@ -1,0 +1,144 @@
+﻿{
+    "Sheet1": [
+        {
+            "REF #": "1",
+            "TRANS. DATE": "25-Jun",
+            "POST DATE": "25-Jun",
+            "DETAILS": "PAYMENT-THANK YOU SCOTIABANK TRANSIT 23200 VANCOUVER BC",
+            "AMOUNTS($)": "588.72"
+        },
+        {
+            "REF #": "2",
+            "TRANS. DATE": "18-Jun",
+            "POST DATE": "4-Jun",
+            "DETAILS": " HARVEST VANCOUVER BC (APPLE PAY)",
+            "AMOUNTS($)": "4.15"
+        },
+        {
+            "REF #": "3",
+            "TRANS. DATE": "15-Jun",
+            "POST DATE": "26-Jun",
+            "DETAILS": " SIMON'S NO FRILLS #367 VANCOUVER BC",
+            "AMOUNTS($)": "75.37"
+        },
+        {
+            "REF #": "4",
+            "TRANS. DATE": "29-Jun",
+            "POST DATE": "4-Jun",
+            "DETAILS": " FRESHSLICE PIZZA VANCOUVER BC",
+            "AMOUNTS($)": "7.53"
+        },
+        {
+            "REF #": "5",
+            "TRANS. DATE": "21-Jun",
+            "POST DATE": "25-Jun",
+            "DETAILS": "ROGERS      *795569490 888-764-3771 ON ",
+            "AMOUNTS($)": "61.6"
+        },
+        {
+            "REF #": "6",
+            "TRANS. DATE": "27-Jun",
+            "POST DATE": "12-Jun",
+            "DETAILS": " SIMON'S NO FRILLS #367 VANCOUVER BC",
+            "AMOUNTS($)": "122.14"
+        },
+        {
+            "REF #": "7",
+            "TRANS. DATE": "22-Jun",
+            "POST DATE": "11-Jun",
+            "DETAILS": "SQ *RAIN OR SHINE HOMEMAD Vancouver BC (APPLE PAY)",
+            "AMOUNTS($)": "6.9"
+        },
+        {
+            "REF #": "8",
+            "TRANS. DATE": "28-Jun",
+            "POST DATE": "27-Jun",
+            "DETAILS": "AMZN Mktp CA*M79SI3X02 WWW.AMAZON.CA ON",
+            "AMOUNTS($)": "17.59"
+        },
+        {
+            "REF #": "9",
+            "TRANS. DATE": "20-Jun",
+            "POST DATE": "25-Jun",
+            "DETAILS": " VED VIGNAN MAHA VIDYA BANGALORE AMT 200.00 UNIT ED STATES DOL LAR",
+            "AMOUNTS($)": "283.62"
+        },
+        {
+            "REF #": "10",
+            "TRANS. DATE": "26-Jun",
+            "POST DATE": "30-Jun",
+            "DETAILS": "MCDONALD'S #19170  Q04 VANCOUVER B",
+            "AMOUNTS($)": "8.63"
+        },
+        {
+            "REF #": "11",
+            "TRANS. DATE": "17-Jun",
+            "POST DATE": "23-Jun",
+            "DETAILS": " COMPASS ACCOUNT BURNABY BC ",
+            "AMOUNTS($)": "3.62"
+        },
+        {
+            "REF #": "12",
+            "TRANS. DATE": "5-Jun",
+            "POST DATE": "15-Jun",
+            "DETAILS": " MAN CAVE BARBER SHOP VANCOUVER BC ",
+            "AMOUNTS($)": "33.45"
+        },
+        {
+            "REF #": "13",
+            "TRANS. DATE": "20-Jun",
+            "POST DATE": "8-Jun",
+            "DETAILS": "UBC HOUSING SERVICES ",
+            "AMOUNTS($)": "985.33"
+        },
+        {
+            "REF #": "14",
+            "TRANS. DATE": "2-Jun",
+            "POST DATE": "9-Jun",
+            "DETAILS": "MCDONALD'S #19170  Q04 VANCOUVER B",
+            "AMOUNTS($)": "6.35"
+        },
+        {
+            "REF #": "15",
+            "TRANS. DATE": "11-Jun",
+            "POST DATE": "8-Jun",
+            "DETAILS": " SIMON'S NO FRILLS #367 VANCOUVER BC",
+            "AMOUNTS($)": "113.25"
+        },
+        {
+            "REF #": "16",
+            "TRANS. DATE": "1-Jun",
+            "POST DATE": "15-Jun",
+            "DETAILS": "ROGERS      *795569490 888-764-3771 ON ",
+            "AMOUNTS($)": "61.6"
+        },
+        {
+            "REF #": "17",
+            "TRANS. DATE": "8-Jun",
+            "POST DATE": "8-Jun",
+            "DETAILS": "AMZN Mktp CA*M79SI3X02 WWW.AMAZON.CA ON",
+            "AMOUNTS($)": "75.45"
+        },
+        {
+            "REF #": "18",
+            "TRANS. DATE": "2-Jun",
+            "POST DATE": "1-Jun",
+            "DETAILS": " FRESHSLICE PIZZA VANCOUVER BC",
+            "AMOUNTS($)": "6.35"
+        },
+        {
+            "REF #": "19",
+            "TRANS. DATE": "28-Jun",
+            "POST DATE": "17-Jun",
+            "DETAILS": " HARVEST VANCOUVER BC (APPLE PAY)",
+            "AMOUNTS($)": "14.21"
+        },
+        {
+            "REF #": "20",
+            "TRANS. DATE": "27-Jun",
+            "POST DATE": "17-Jun",
+            "DETAILS": "UBC HOUSING SERVICES ",
+            "AMOUNTS($)": "985.33"
+        }
+    ]
+}
